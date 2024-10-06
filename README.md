@@ -5,7 +5,7 @@
 - 📫 How to reach me: mateostafa53@gmail.com Mon thru Fri.
 
 ##Skills and knowledge
-- **Languages** : HTML, CSS, JS, JAVA, C++
+- **Languages** : HTML, CSS, JS, JAVA, C++ and SQL
 - **Frameworks** : Bootstrap, jQuery, Spring Boot (more to come in the future)
 
 ##Personal Projects
