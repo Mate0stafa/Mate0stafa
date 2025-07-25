@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mate0stafa
 - 👀 I’m interested in programming, always eager to learn.
-- 💼 Doing an internship at [InterMedia LLC](https://www.intermedia.al/) as a JAVA web developer/Full Stack developer.
+- 💼 Junior Software Developer at [InterMedia LLC](https://www.intermedia.al/).
 - 🌱 I’m currently learning computer science and trying to expand my Git Hub portfolio.
 - 📫 How to reach me: mateostafa53@gmail.com Mon thru Fri.
 
