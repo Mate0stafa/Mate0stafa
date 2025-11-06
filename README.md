@@ -9,6 +9,8 @@
 - **Frameworks** : Bootstrap, jQuery, Spring Boot, Angular (more to come in the future)
 
 ## Personal Projects
-- *Currently* none. Hopefully many in the future
+- https://github.com/Mate0stafa/RezervoOn a spring security example for an admin panel which allows you to create and manage users based on role (admin, manage and user)
+
+
 ## Previous Work experience: 
 - Junior Software Developer at [InterMedia LLC](https://www.intermedia.al/). From jan 2023 to Nov 2025
